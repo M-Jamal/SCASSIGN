@@ -1,0 +1,13 @@
+
+
+Sir We Are only two members for this Assignment.
+
+1.   Muhammad Jamal Sabir : FA13-BSE-032
+2.   Muhammad Javed  : FA13-BSE-028
+
+Our one member has been with some other group.
+Therefore we divided this Assignment into 2 members.
+
+Jamal:		jamal.java | maindemo.java
+
+Javed:      Javed.java | Adminoptions.java
